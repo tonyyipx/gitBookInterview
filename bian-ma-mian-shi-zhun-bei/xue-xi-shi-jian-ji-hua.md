@@ -40,24 +40,24 @@ description: 编码面试学习计划——根据剩余时间学习和练习什�
 
 **Week 1**[**​**](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-1)
 
-<table><thead><tr><th width="196">Topic主题</th><th>Priority优先级</th><th>Time required所需时间</th></tr></thead><tbody><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/array/">Array</a> 数组</td><td>High</td><td>2 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/string/">String</a> 字符串</td><td>High</td><td>3 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/hash-table/">Hash Table</a> 哈希表</td><td>Mid</td><td>3 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/recursion/">Recursion</a> 递归</td><td>Mid</td><td>3 hours</td></tr></tbody></table>
+<table><thead><tr><th width="196">Topic主题</th><th>Priority优先级</th><th>Time required所需时间</th></tr></thead><tbody><tr><td><a href="../algorithms-study-cheatsheet/basics/array.md">Array</a> 数组</td><td>High</td><td>2 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/basics/string.md">String</a> 字符串</td><td>High</td><td>3 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/basics/hash-table.md">Hash Table</a> 哈希表</td><td>Mid</td><td>3 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/basics/recursion.md">Recursion</a> 递归</td><td>Mid</td><td>3 hours</td></tr></tbody></table>
 
 **Week 2**[**​**](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-2)
 
-<table><thead><tr><th width="223">Topic</th><th>Priority</th><th>Time required</th></tr></thead><tbody><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/sorting-searching/">Sorting and searching</a> 排序与查找</td><td>High</td><td>3 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/matrix/">Matrix</a> 矩阵</td><td>High</td><td>1 hour</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/linked-list/">Linked List</a> 链表</td><td>Mid</td><td>3 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/queue/">Queue</a> 队列</td><td>Mid</td><td>2 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/stack/">Stack</a> 栈</td><td>Mid</td><td>2 hours</td></tr></tbody></table>
+<table><thead><tr><th width="223">Topic</th><th>Priority</th><th>Time required</th></tr></thead><tbody><tr><td><a href="../algorithms-study-cheatsheet/basics/sorting-and-searching.md">Sorting and searching</a> 排序与查找</td><td>High</td><td>3 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/data-structures/matrix.md">Matrix</a> 矩阵</td><td>High</td><td>1 hour</td></tr><tr><td><a href="../algorithms-study-cheatsheet/data-structures/linked-list.md">Linked List</a> 链表</td><td>Mid</td><td>3 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/data-structures/queue.md">Queue</a> 队列</td><td>Mid</td><td>2 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/data-structures/stack.md">Stack</a> 栈</td><td>Mid</td><td>2 hours</td></tr></tbody></table>
 
 **Week 3**[**​**](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-3)
 
-| Topic                                                              | Priority | Time required |
-| ------------------------------------------------------------------ | -------- | ------------- |
-| [Tree](https://www.techinterviewhandbook.org/algorithms/tree/) 树   | High     | 4 hours       |
-| [Graph](https://www.techinterviewhandbook.org/algorithms/graph/) 图 | High     | 4 hours       |
-| [Heap](https://www.techinterviewhandbook.org/algorithms/heap/) 堆   | Mid      | 3 hours       |
-| [Trie](https://www.techinterviewhandbook.org/algorithms/trie/) 字典树 | Mid      | 3 hours       |
+| Topic                                                                       | Priority | Time required |
+| --------------------------------------------------------------------------- | -------- | ------------- |
+| [Tree](../algorithms-study-cheatsheet/advanced-data-structures/tree.md) 树   | High     | 4 hours       |
+| [Graph](../algorithms-study-cheatsheet/advanced-data-structures/graph.md) 图 | High     | 4 hours       |
+| [Heap](../algorithms-study-cheatsheet/advanced-data-structures/heap.md) 堆   | Mid      | 3 hours       |
+| [Trie](../algorithms-study-cheatsheet/advanced-data-structures/trie.md) 字典树 | Mid      | 3 hours       |
 
 **Week 4**[**​**](https://www.techinterviewhandbook.org/coding-interview-study-plan/#week-4)
 
-<table><thead><tr><th width="226">Topic</th><th>Priority</th><th>Time required</th></tr></thead><tbody><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/interval/">Interval</a> 区间</td><td>Mid</td><td>2 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/dynamic-programming/">Dynamic programming</a> 动态规划</td><td>Low</td><td>4 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/binary/">Binary</a> 二进制</td><td>Low</td><td>2 hours</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/math/">Math</a> 数学</td><td>Low</td><td>1 hour</td></tr><tr><td><a href="https://www.techinterviewhandbook.org/algorithms/geometry/">Geometry</a> 几何</td><td>Low</td><td>1 hour</td></tr></tbody></table>
+<table><thead><tr><th width="226">Topic</th><th>Priority</th><th>Time required</th></tr></thead><tbody><tr><td><a href="../algorithms-study-cheatsheet/data-structures/interval.md">Interval</a> 区间</td><td>Mid</td><td>2 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/additional/dynamic-programming.md">Dynamic programming</a> 动态规划</td><td>Low</td><td>4 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/additional/binary.md">Binary</a> 二进制</td><td>Low</td><td>2 hours</td></tr><tr><td><a href="../algorithms-study-cheatsheet/additional/math.md">Math</a> 数学</td><td>Low</td><td>1 hour</td></tr><tr><td><a href="../algorithms-study-cheatsheet/additional/geometry.md">Geometry</a> 几何</td><td>Low</td><td>1 hour</td></tr></tbody></table>
 
 #### ◇第 5 - 12 周：深入练习 <a href="#week-5---12-in-depth-practice" id="week-5---12-in-depth-practice"></a>
 
