@@ -6,14 +6,14 @@
 
 在开始练习编程面试问题之前，你应该阅读并熟悉本指南。在练习 LeetCode 的同时，本指南将帮助你尽早养成这些重要的编程面试行为。
 
-### 编程面试_前_ 该做什么 <a href="#what-to-do-before-your-coding-interview" id="what-to-do-before-your-coding-interview"></a>
+### ★编程面试_前_ 该做什么 <a href="#what-to-do-before-your-coding-interview" id="what-to-do-before-your-coding-interview"></a>
 
 *   ✅ 穿着舒适。
 
     > 通常不需要穿正式的衣服，休闲装就可以了。大多数地方都接受T恤和牛仔裤。
 * ✅ 确保您已阅读并准备好[自我介绍](../xing-wei-mian-shi-zhun-bei/zhun-bei-zi-wo-jie-shao.md)和[最后要问的问题](../xing-wei-mian-shi-zhun-bei/zhun-bei-zui-hou-yao-wen-de-wen-ti.md)。
 
-#### 对于虚拟现场编码面试 <a href="#for-virtual-onsite-coding-interviews" id="for-virtual-onsite-coding-interviews"></a>
+#### ◇对于虚拟现场编码面试 <a href="#for-virtual-onsite-coding-interviews" id="for-virtual-onsite-coding-interviews"></a>
 
 <figure><img src="../.gitbook/assets/虚拟现场编码面试前应做的事情总结.jpg" alt=""><figcaption><p>虚拟现场编码面试前应做的事情总结</p></figcaption></figure>
 
@@ -32,7 +32,7 @@
 
     > 大多数远程面试不需要视频聊天，而保持视频聊天只会分散注意力并占用网络带宽。
 
-#### 对于电话屏幕编码面试 <a href="#for-phone-screen-coding-interviews" id="for-phone-screen-coding-interviews"></a>
+#### ◇对于电话屏幕编码面试 <a href="#for-phone-screen-coding-interviews" id="for-phone-screen-coding-interviews"></a>
 
 <figure><img src="../.gitbook/assets/电话屏幕编码面试前应做的事情总结.jpg" alt=""><figcaption><p>电话屏幕编码面试前应做的事情总结</p></figcaption></figure>
 
@@ -43,7 +43,7 @@
 
     > 发送链接或文本更加容易。
 
-#### 对于现场白板编码面试 <a href="#for-onsite-whiteboarding-coding-interviews" id="for-onsite-whiteboarding-coding-interviews"></a>
+#### ◇对于现场白板编码面试 <a href="#for-onsite-whiteboarding-coding-interviews" id="for-onsite-whiteboarding-coding-interviews"></a>
 
 *   ✅ 了解白板空间管理。
 
@@ -51,11 +51,11 @@
 
 
 
-### 编码面试_期间_该做什么 <a href="#what-to-do-during-your-coding-interview" id="what-to-do-during-your-coding-interview"></a>
+### ★编码面试_期间_该做什么 <a href="#what-to-do-during-your-coding-interview" id="what-to-do-during-your-coding-interview"></a>
 
 <figure><img src="../.gitbook/assets/编码面试中应做的事情总结.jpg" alt=""><figcaption><p>编码面试中应做的事情总结</p></figcaption></figure>
 
-#### 1.面试 <a href="#id-1-make-a-good-self-introduction-at-the-start-of-the-interview" id="id-1-make-a-good-self-introduction-at-the-start-of-the-interview"></a>
+#### ◇1.面试 <a href="#id-1-make-a-good-self-introduction-at-the-start-of-the-interview" id="id-1-make-a-good-self-introduction-at-the-start-of-the-interview"></a>
 
 *   ✅ 在一两分钟内用几句话介绍自己。
 
@@ -65,7 +65,7 @@
     > 带着微笑说话，你自然会听起来更有吸引力。
 * ❌ 不要花太长时间进行自我介绍，因为这样你将没有太多时间进行编码。
 
-#### 2. 收到问题后，做出澄清 <a href="#id-2-upon-receiving-the-question-make-clarifications" id="id-2-upon-receiving-the-question-make-clarifications"></a>
+#### ◇2. 收到问题后，做出澄清 <a href="#id-2-upon-receiving-the-question-make-clarifications" id="id-2-upon-receiving-the-question-make-clarifications"></a>
 
 **不要马上开始编程。**编程问题往往含糊不清，故意不明确，以便让面试官判断应聘者对细节的关注和细心程度。至少问 2-3 个澄清问题。
 
@@ -89,7 +89,7 @@
     > 例如，你被要求编写一个回文检查器，在编码之前，想出一些简单的测试用例，如“KAYAK”=> true，“MOUSE”=> false，然后向面试官核实这些示例用例是否符合他们的期望
 * ❌ 不要马上开始编码，或者在面试官允许之前就开始编码。
 
-#### 3. 制定并优化与面试官 <a href="#id-3-work-out-and-optimize-your-approach-with-the-interviewer" id="id-3-work-out-and-optimize-your-approach-with-the-interviewer"></a>
+#### ◇3. 制定并优化与面试官 <a href="#id-3-work-out-and-optimize-your-approach-with-the-interviewer" id="id-3-work-out-and-optimize-your-approach-with-the-interviewer"></a>
 
 接下来你能做的最糟糕的事情就是直接跳到编码 - 面试官希望有一些时间进行双向讨论，以了解解决问题的正确方法，包括时间和空间复杂性的分析。
 
@@ -110,7 +110,7 @@
 * ❌ 不要忽略任何给出的信息。
 * ❌不要表现出对你的方法或分析不确定。
 
-#### 4. 边讨论 <a href="#id-4-code-out-your-solution-while-talking-through-it" id="id-4-code-out-your-solution-while-talking-through-it"></a>
+#### ◇4. 边讨论 <a href="#id-4-code-out-your-solution-while-talking-through-it" id="id-4-code-out-your-solution-while-talking-through-it"></a>
 
 * ✅ 只有在你解释了你的方法并且得到面试官的同意后才开始编码。
 *   ✅ 解释你在编码/写作时想要实现的目标。在相关的地方比较不同的编码方法。
@@ -143,7 +143,7 @@
   * 不要使用非常冗长或单字符的变量名，（除非它们很常见，如`i`, `n`）变量名
 * ❌ 请勿在未检查的情况下复制和粘贴代码（例如，粘贴后可能需要重命名某些变量）。
 
-#### 5. 编码完成后，检查代码并添加测试用例 <a href="#id-5-after-coding-check-your-code-and-add-test-cases" id="id-5-after-coding-check-your-code-and-add-test-cases"></a>
+#### ◇5. 编码完成后，检查代码并添加测试用例 <a href="#id-5-after-coding-check-your-code-and-add-test-cases" id="id-5-after-coding-check-your-code-and-add-test-cases"></a>
 
 编码完成后，不要宣布完成。面试官希望你开始查找错误并添加测试用例来改进代码。
 
@@ -162,7 +162,7 @@
 * ❌ 不要立即宣布您已完成编码。先完成上述操作！
 * ❌ 不要与面试官争论。他们可能会错，但这种情况不太可能发生，因为他们对这个问题很熟悉。
 
-#### 6. 面试结束时，留下良好印象 <a href="#id-6-at-the-end-of-the-interview-leave-a-good-impression" id="id-6-at-the-end-of-the-interview-leave-a-good-impression"></a>
+#### ◇6. 面试结束时，留下良好印象 <a href="#id-6-at-the-end-of-the-interview-leave-a-good-impression" id="id-6-at-the-end-of-the-interview-leave-a-good-impression"></a>
 
 *   ✅ 提出适合公司需求的好的最终问题。
 
@@ -170,7 +170,7 @@
 * ✅ 感谢面试官
 * ❌ 不要在没有问任何问题的情况下结束面试。
 
-### 编码面试_后_该做什么  <a href="#what-to-do-after-your-coding-interview" id="what-to-do-after-your-coding-interview"></a>
+### ★编码面试_后_该做什么 <a href="#what-to-do-after-your-coding-interview" id="what-to-do-after-your-coding-interview"></a>
 
 <figure><img src="../.gitbook/assets/编码面试后应做的事情总结.jpg" alt=""><figcaption><p>编码面试后应做的事情总结</p></figcaption></figure>
 
