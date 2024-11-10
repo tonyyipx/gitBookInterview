@@ -39,9 +39,31 @@
 * [谈判十条规则](xin-zi-he-bao-jia-tan-pan-zhun-bei/tan-pan-shi-tiao-gui-ze.md)
 * [在公司之间进行选择](xin-zi-he-bao-jia-tan-pan-zhun-bei/zai-gong-si-zhi-jian-jin-xing-xuan-ze.md)
 
-## 算法学习速查表
+## 算法学习速查表 <a href="#algorithms-study-cheatsheet" id="algorithms-study-cheatsheet"></a>
 
-* [介绍](suan-fa-xue-xi-su-cha-biao/jie-shao.md)
+* [介绍](algorithms-study-cheatsheet/introduction.md)
+* [基础知识](algorithms-study-cheatsheet/basics/README.md)
+  * [Array](algorithms-study-cheatsheet/basics/array.md)
+  * [String](algorithms-study-cheatsheet/basics/string.md)
+  * [Hash table](algorithms-study-cheatsheet/basics/hash-table.md)
+  * [Recursion](algorithms-study-cheatsheet/basics/recursion.md)
+  * [Sorting and searching](algorithms-study-cheatsheet/basics/sorting-and-searching.md)
+* [数据结构](algorithms-study-cheatsheet/data-structures/README.md)
+  * [Matrix](algorithms-study-cheatsheet/data-structures/matrix.md)
+  * [Linked list](algorithms-study-cheatsheet/data-structures/linked-list.md)
+  * [Queue](algorithms-study-cheatsheet/data-structures/queue.md)
+  * [Stack](algorithms-study-cheatsheet/data-structures/stack.md)
+  * [Interval](algorithms-study-cheatsheet/data-structures/interval.md)
+* [高级数据结构](algorithms-study-cheatsheet/advanced-data-structures/README.md)
+  * [Dynamic programming](algorithms-study-cheatsheet/advanced-data-structures/dynamic-programming.md)
+  * [Binary](algorithms-study-cheatsheet/advanced-data-structures/binary.md)
+  * [Math](algorithms-study-cheatsheet/advanced-data-structures/math.md)
+  * [Geometry](algorithms-study-cheatsheet/advanced-data-structures/geometry.md)
+* [其他](algorithms-study-cheatsheet/additional/README.md)
+  * [Dynamic programming](algorithms-study-cheatsheet/additional/dynamic-programming.md)
+  * [Binary](algorithms-study-cheatsheet/additional/binary.md)
+  * [Math](algorithms-study-cheatsheet/additional/math.md)
+  * [Geometry](algorithms-study-cheatsheet/additional/geometry.md)
 
 ## 超越采访
 
