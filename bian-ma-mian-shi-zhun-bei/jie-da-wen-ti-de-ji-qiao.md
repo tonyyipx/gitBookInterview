@@ -6,13 +6,13 @@ description: 解决编码面试问题的最佳技巧
 
 大多数候选人在编程面试中最大的恐惧是：如果我被问题难住了，不知道该怎么做怎么办？幸运的是，有一些结构化的方法可以解决编程面试问题，这将增加你解决问题的机会。从如何找到解决方案或方法，到优化时间和空间复杂性，这里有一些最重要的技巧和最佳实践，可以帮助你解决编程面试问题。
 
-### 如何找到编码面试问题 <a href="#how-to-find-solutions-to-coding-interview-problems" id="how-to-find-solutions-to-coding-interview-problems"></a>
+### ★如何找到编码面试问题 <a href="#how-to-find-solutions-to-coding-interview-problems" id="how-to-find-solutions-to-coding-interview-problems"></a>
 
 当面试官问到编程问题时，应聘者应该先问一些澄清问题，并与面试官讨论一些可能的方法。然而，大多数应聘者往往在这一步陷入困境。值得庆幸的是，有方法可以有条理地做到这一点。
 
 请注意，并非所有技术都适用于每个编码面试问题，您也可以在一个问题上使用多种技术！当您在练习中应用这些技术时，您将形成直觉，知道哪种技术对于手头的问题有用。
 
-#### 1. 通过画图 <a href="#id-1-visualize-the-problem-by-drawing-it-out" id="id-1-visualize-the-problem-by-drawing-it-out"></a>
+#### ◇1. 通过画图 <a href="#id-1-visualize-the-problem-by-drawing-it-out" id="id-1-visualize-the-problem-by-drawing-it-out"></a>
 
 有没有想过为什么编程面试传统上是在白板上进行的，而解释编程问题答案的视频往往使用图表？白板可以轻松绘制图表，这有助于解决问题！编码的很大一部分是了解程序的内部状态如何变化，而图表是用于表示内部数据结构状态的超级有用工具。如果您很难理解如何获得解决方案，请想出问题的视觉表示，如有必要，还要提供每一步的内部状态。
 
@@ -22,7 +22,7 @@ description: 解决编码面试问题的最佳技巧
 
 如何[按螺旋顺序返回矩阵的所有元素](https://leetcode.com/problems/spiral-matrix/)？绘制矩阵以及迭代器在每个方向上需要采取的步骤将极大地帮助您看到模式。
 
-#### 2. 思考如何手动 <a href="#id-2-think-about-how-you-would-solve-the-problem-by-hand" id="id-2-think-about-how-you-would-solve-the-problem-by-hand"></a>
+#### ◇2. 思考如何手动 <a href="#id-2-think-about-how-you-would-solve-the-problem-by-hand" id="id-2-think-about-how-you-would-solve-the-problem-by-hand"></a>
 
 手工解决问题是指不编写任何代码来解决问题，就像非程序员那样。当您尝试理解给您的示例时，这种情况大多数时候已经自然发生。
 
@@ -32,11 +32,11 @@ description: 解决编码面试问题的最佳技巧
 
 如何在不编写任何代码的情况下[验证一棵树是否是有效的二叉搜索树](https://leetcode.com/problems/validate-binary-search-tree/)？首先检查左子树是否仅包含小于根的值，然后检查右子树是否仅包含大于根的值，然后对每个节点重复此操作。这个过程似乎是可行的。现在你只需要把这个过程变成代码。
 
-#### 3. 提出更多例子 <a href="#id-3-come-up-with-more-examples" id="id-3-come-up-with-more-examples"></a>
+#### ◇3. 提出更多例子 <a href="#id-3-come-up-with-more-examples" id="id-3-come-up-with-more-examples"></a>
 
 无论你是否遇到困难，想出更多的例子都是很有用的。它可以帮助你加强对问题的理解，防止你过早地跳入编码，帮助你识别可以推广到任何输入的模式，这就是解决方案！最后，在验证解决方案时，可以将多个示例用作测试用例。
 
-#### 4. 将问题分解成更小的独立部分 <a href="#id-4-break-the-question-down-into-smaller-independent-parts" id="id-4-break-the-question-down-into-smaller-independent-parts"></a>
+#### ◇4. 将问题分解成更小的独立部分 <a href="#id-4-break-the-question-down-into-smaller-independent-parts" id="id-4-break-the-question-down-into-smaller-independent-parts"></a>
 
 如果问题很大，请从高级函数开始，然后将其分解为较小的组成函数，并分别解决每个函数。这可以防止您被一次性完成所有事情的细节所困扰，并保持您的思维结构化。
 
@@ -62,7 +62,7 @@ def group_anagrams(strings):
 
 然后继续填写每个函数的实现。但是，请注意，有时最有效的解决方案需要你打破一些抽象，并在一次输入中执行多个操作。如果面试官要求你根据你抽象的解决方案进行优化，那么这是一条可能的前进道路。
 
-#### 5. 应用常见的数据结构和算法来解决问题 <a href="#id-5-apply-common-data-structures-and-algorithms-at-the-problem" id="id-5-apply-common-data-structures-and-algorithms-at-the-problem"></a>
+#### ◇5. 应用常见的数据结构和算法来解决问题 <a href="#id-5-apply-common-data-structures-and-algorithms-at-the-problem" id="id-5-apply-common-data-structures-and-algorithms-at-the-problem"></a>
 
 与现实世界中的软件工程不同，在现实世界中，问题通常是开放式的，可能没有明确的解决方案，而编程面试问题往往规模较小，并且旨在在面试期间解决。您还可以预料到，解决问题所需的知识并不离谱，这些知识在大学期间就已经学过了。值得庆幸的是，常见数据结构和算法的数量是有限的，根据我的经验，一种行之有效的黑客方法是尝试遍历所有常见数据结构并将它们应用于问题。
 
@@ -87,11 +87,11 @@ def group_anagrams(strings):
 
 将来，我们将添加有关如何根据问题更好地识别最相关的数据结构和例程的提示。
 
-### 如何优化你的方法或解决方案 <a href="#how-to-optimize-your-approach-or-solution" id="how-to-optimize-your-approach-or-solution"></a>
+### ★如何优化你的方法或解决方案 <a href="#how-to-optimize-your-approach-or-solution" id="how-to-optimize-your-approach-or-solution"></a>
 
 在你想出了编程面试问题的初步解决方案后，面试官很可能会问你“我们能做得更好吗？”来提示你优化解决方案。以下技巧可帮助你进一步优化解决方案的时间和空间复杂度：
 
-#### 如何优化时间复杂度 <a href="#how-to-optimize-time-complexity" id="how-to-optimize-time-complexity"></a>
+#### ◇如何优化时间复杂度 <a href="#how-to-optimize-time-complexity" id="how-to-optimize-time-complexity"></a>
 
 **1. 确定解决方案**
 
@@ -228,7 +228,7 @@ def contains_string(search_term, strings):
 
 这被认为是一种微优化，大多数情况下`strings`不会为空，但我用它来说明一个示例，即如果不需要，您不必进行某些计算。这也适用于初始化代码中需要的对象（通常是哈希表）。如果输入为空，则无需初始化任何变量！
 
-#### 如何优化空间复杂度 <a href="#how-to-optimize-space-complexity" id="how-to-optimize-space-complexity"></a>
+#### ◇如何优化空间复杂度 <a href="#how-to-optimize-space-complexity" id="how-to-optimize-space-complexity"></a>
 
 大多数情况下，时间复杂度比空间复杂度更重要。但是当你已经达到最佳时间复杂度时，面试官可能会要求你优化解决方案所使用的空间（如果它使用了额外的空间）。以下是一些可用于提高代码空间复杂度的技巧。
 
@@ -254,7 +254,7 @@ def contains_string(search_term, strings):
 
 给定一个字符串列表，您想知道其中有多少个字符串以某个前缀开头。有什么方法可以高效地存储这些字符串，以便快速计算出答案？[Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)是一种树状数据结构，可以高效地存储字符串，还可以让您快速计算出有多少个字符串以某个前缀开头。
 
-### 下一步 <a href="#next-steps" id="next-steps"></a>
+### ★下一步 <a href="#next-steps" id="next-steps"></a>
 
 如果你还没有，我建议你查看我的[免费结构化编码面试指南](../jie-shao/swe-mian-shi-ta-men-shi-shen-me-yi-ji-ru-he-zhun-bei.md)，其中包含分步指导，例如：
 
