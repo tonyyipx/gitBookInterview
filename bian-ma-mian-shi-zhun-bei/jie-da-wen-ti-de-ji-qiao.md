@@ -164,7 +164,7 @@ K个[最接近原点的](https://leetcode.com/problems/k-closest-points-to-origi
 
 提前终止。在得到答案后停止，立即返回答案。以下是利用提前终止的一个例子。考虑这个基本问题“确定字符串数组是否包含字符串，无论是否区分大小写”。它的代码如下：
 
-```
+```python
 def contains_string(search_term, strings):
   result = False
   for string in strings:
@@ -175,7 +175,7 @@ def contains_string(search_term, strings):
 
 这段代码能用吗？当然能。这段代码是否尽可能高效？不能。我们只需要知道搜索词是否存在于字符串数组中。只要我们知道存在该值，就可以停止迭代。
 
-```
+```python
 def contains_string(search_term, strings):
   for string in strings:
     if string.lower() == search_term.lower():
@@ -189,7 +189,7 @@ def contains_string(search_term, strings):
 
 我们进一步改进上面的例子，来解决“确定一个字符串数组是否包含一个字符串，不管是否区分大小写”这个问题。
 
-```
+```python
 def contains_string(search_term, strings):
   for string in strings:
     if string.lower() == search_term.lower():
@@ -199,7 +199,7 @@ def contains_string(search_term, strings):
 
 `search_term.lower()`请注意，您在 for 循环的每个循环中都调用一次！这是一种浪费，因为`search_term`在函数的整个生命周期中都不会改变。
 
-```
+```python
 def contains_string(search_term, strings):
   search_term_lowercase = search_term.lower()
   for string in strings:
@@ -214,7 +214,7 @@ def contains_string(search_term, strings):
 
 惰性求值是一种求值策略，它会延迟对表达式的求值，直到需要其值为止。让我们使用与上面相同的示例。我们可以从技术上对其进行一些改进：
 
-```
+```python
 def contains_string(search_term, strings):
   if len(strings) == 0:
     return False
